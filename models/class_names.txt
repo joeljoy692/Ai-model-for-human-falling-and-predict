@@ -1,0 +1,5 @@
+bending
+falling
+sitting
+standing
+tripping
